@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hey! I am [Alexander 'Alex' Lyons][website]  👋
 
-<!--
-**alyons/alyons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Software Engineer who loves games, anime, and cooking.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a couple of random projects.
+- 🌱 I’m currently learning about streaming and recording videos. For better quality Extra Life!
+- 💬 Ask me about my cat, Salem! He is adorable!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to speed run [Mega Man X4][speedrun]. I am working on getting my run to be under 50 minutes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+
+#### Well Versed
+
+- Javascript
+- Node
+- React
+- Terraform
+- Jenkins
+- GCP
+
+#### Learning or Prior Use
+
+- C#
+- Python
+- AWS CDK
+- Circle CI
+- GitHub Actions
+
+
+[website]: https://www.alexanderlyons.net/
+[speedrun]: https://www.speedrun.com/mmxlc/run/z1j8epjz
