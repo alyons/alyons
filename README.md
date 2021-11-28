@@ -10,18 +10,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to speed run [Mega Man X4][speedrun]. I am working on getting my run to be under 50 minutes. 
 
----
+Check out [this website][extra-life] I build with some of my coworkers for an Extra Life event we held in November 2021.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img alt="alyons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alyons&show_icons=true&hide_border=true" />
-
 </details>
 
 <br />
-
----
 
 ### Languages and Tools:
 
@@ -45,3 +42,4 @@
 
 [website]: https://www.alexanderlyons.net/
 [speedrun]: https://www.speedrun.com/mmxlc/run/z1j8epjz
+[extra-life]: https://extra-life-slalom.web.app/
