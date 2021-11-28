@@ -8,6 +8,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to speed run [Mega Man X4][speedrun]. I am working on getting my run to be under 50 minutes. 
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="alyons's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alyons&show_icons=true&hide_border=true" />
+
+</details>
 
 ### Languages and Tools:
 
