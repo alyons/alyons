@@ -1,5 +1,7 @@
 ### Hey! I am [Alexander 'Alex' Lyons][website]  👋
 
+[![Website](https://img.shields.io/website?label=alexanderlyons.net&style=for-the-badge&url=https%3A%2F%2Fwww.alexanderlyons.net%2F)][website]
+
 ## I am a Software Engineer who loves games, anime, and cooking.
 
 - 🔭 I’m currently working on a couple of random projects.
@@ -13,17 +15,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="alyons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alyons&show_icons=true&hide_border=true" />
+  <img alt="alyons's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alyons&show_icons=true&hide_border=true" />
 
 </details>
 
----
-
 <br />
+
+---
 
 ### Languages and Tools:
 
-#### Well Versed
+#### Well Versed :hammer_and_wrench:
 
 - Javascript
 - Node
@@ -32,7 +34,7 @@
 - Jenkins
 - GCP
 
-#### Learning or Prior Use
+#### Learning or Prior Use :hammer:
 
 - C#
 - Python
